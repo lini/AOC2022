@@ -1,6 +1,5 @@
 ﻿using AdventOfCode2022;
 Console.WriteLine("AOC 2022!");
-Console.WriteLine("Day 11:"); _11.Run();
 
 Console.WriteLine("Day 1:"); _1.Run();
 Console.WriteLine("Day 2:"); _2.Run();
